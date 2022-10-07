@@ -9,9 +9,9 @@ function App() {
       {/* {Editor} */}
       {/* <Editor /> */}
       {/* {LexicalEditor} */}
-      {/* <LexicalEditor /> */}
+      <LexicalEditor />
 
-      <EditorNpm />
+      {/* <EditorNpm /> */}
     </>
   );
 }
